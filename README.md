@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VSRathore02
+- 👋 Hi, I’m @VirennnR
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Java & DSA
 - 💞️ I’m looking to collaborate on different dev stuff
-- 📫 How to reach me at vire.rathore02@gmail.com
+- 📫 How to reach me at viren.rathore02@gmail.com
 
 <!---
 VSRathore02/VSRathore02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
