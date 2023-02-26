@@ -1,8 +1,19 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&lines=Hello+I'm+VirennnR"></a>
+</p>
+
 - 👋 Hi, I’m @VirennnR
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Java & DSA
 - 💞️ I’m looking to collaborate on different dev stuff
 - 📫 How to reach me at viren.rathore02@gmail.com
+
+</a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/>
+<p>
+<img src="https://j.gifs.com/vO0xEx.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Computador">
+  
+</p>
+
 
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -13,6 +24,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 |<h3 align="center">Mobile App Development 📱</h3>|
 |:----------------------------------------:|
